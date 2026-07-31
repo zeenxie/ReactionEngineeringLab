@@ -1,4 +1,4 @@
-# 00_python_foundation
+# 00_python_basics
 
 This module is the Python foundation layer of ReactionEngineeringLab.  
 It is designed for chemical reaction engineering students who want to learn the scientific Python tools needed for reactor modeling, kinetics analysis, numerical solving, and data fitting.
@@ -29,13 +29,6 @@ Learn how to solve ordinary differential equations with `scipy.integrate.solve_i
 
 ### 04_parameter_fitting.ipynb
 Learn how to estimate kinetic parameters from experimental data using SciPy optimization tools.
-
-## Recommended Order
-
-1. `01_numpy_for_reaction_engineering.ipynb`
-2. `02_plotting_reaction_profiles.ipynb`
-3. `03_solving_odes_with_scipy.ipynb`
-4. `04_parameter_fitting.ipynb`
 
 ## Dependencies
 
